@@ -1,0 +1,32 @@
+    * {
+        margin: 0;
+        padding: 0;
+    }
+    
+    header {
+        background: aqua;
+    }
+    
+    .aside-mf {
+        display: flex;
+        flex-direction: row;
+    }
+    
+    .main-footer {
+        width: 850px;
+        height: 721px;
+    }
+    
+    main {
+        background: green;
+    }
+    
+    footer {
+        background: blue;
+    }
+    
+    aside {
+        background: red;
+        width: 850px;
+        height: 738px;
+    }
